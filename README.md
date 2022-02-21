@@ -1,3 +1,6 @@
+# 2022-02-21 Update - Samuel Kielek
+You'll find my revisions to Adam's design on this fork. This is still a work-in-progress. I've had a few boards built and at present cannot recommend anyone ordering these due to key alignments being off and thus not fitting properly inside the case. I'm planning to address those in the next update. I've also made some tweaks to the 3D models. My goal is for the next update to have something that works without any additional fitment tinkering. Stay tuned! 
+
 # A1200KB Amiga 1200 mechanical keyboard
 
 As of right now this is revision 4. I know it could be improved very, very slightly by changing the position of key groups by less than a millimetre but I think it's complete now. 
